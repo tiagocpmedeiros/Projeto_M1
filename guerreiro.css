@@ -19,7 +19,7 @@ h1 {
 }
 h2{
    
-    color: rgb(3, 3, 3);
+    color: white;
     font-style: italic;
   
 }
@@ -30,4 +30,5 @@ button{
 }
 h3 {
     font-style: italic;
+    color: white;
 }
