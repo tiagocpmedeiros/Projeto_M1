@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-image: url(https://wallpapercave.com/wp/wp1933957.png);
+
+
+}
+h1 {
+    color: darkgray;
+    text-shadow: 1px 1px 8px rgb(146, 122, 122);
+    font-style:italic;
+    padding-left: 20px;
+    text-align: center;
+    font-family:sans-serif;
+    
+    
+   
+ 
+}
+h2{
+   
+    color: rgb(3,3,3);
+    font-style: italic;
+  
+}
+button{
+    background-color: darkolivegreen;
+    color:white;
+    font-weight: bolder;
+}
+h3 {
+    font-style: italic;
+}

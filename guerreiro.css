@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-image: url(https://wallpaperaccess.com/full/2122578.jpg);
+
+
+
+}
+h1 {
+    color: rgb(53, 121, 209);
+    text-shadow: 1px 1px 8px rgb(89, 111, 126);
+    font-style:italic;
+    padding-left: 20px;
+    text-align: center;
+    font-family:sans-serif;
+    
+    
+   
+ 
+}
+h2{
+   
+    color: rgb(3, 3, 3);
+    font-style: italic;
+  
+}
+button{
+    background-color: navy;
+    color:white;
+    font-weight: bolder;
+}
+h3 {
+    font-style: italic;
+}
