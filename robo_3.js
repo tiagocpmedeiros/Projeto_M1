@@ -7,6 +7,10 @@
             else if (decidir==2) {
                 location.replace("robo_3_2.html");
             }
+            else if (decidir==3){
+            location.replace("robo_3_1.html");
+
+            }
             else {
                 alert ("Opção Inválida");
             }
